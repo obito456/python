@@ -1,5 +1,5 @@
 import numpy as np
 
-data=[10,15,20,25]
-print(np.std(data))
-print(np.std(data,ddof=1))
+coffee=[10,15,20,25]
+print(np.std(coffee))
+print(np.std(coffee,ddof=1))
