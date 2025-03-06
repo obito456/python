@@ -1,0 +1,9 @@
+Id=1
+Pizzas=3.0
+Bill=200
+print(str(Id))
+print(int(Pizzas))
+print(float(Bill))
+print(type(Id))
+print(type(Pizzas))
+print(type(Bill))
