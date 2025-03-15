@@ -1,0 +1,7 @@
+print('It\'s my dream')
+print("C:\\Users\\Vijay\\Documents")
+print("Data\nScience")
+print("Data\rScience")
+print("Data\n\rScience")
+print("Shutter \t Island")
+print("Shutter   \bIsland")
