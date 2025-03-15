@@ -1,4 +1,4 @@
-L=int(input("Enter Length = "))
-B=int(input("Enter Breadth = "))
+L=float(input("Enter length = "))
+B=float(input("Enter breadth = "))
 Area=L*B
 print(Area)
