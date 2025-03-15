@@ -1,0 +1,10 @@
+a="Hi"
+b='Hi'
+c="""Fight
+    club"""
+d='''Fight
+    club'''
+print(a)
+print(b)
+print(c)
+print(d)
