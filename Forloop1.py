@@ -1,5 +1,5 @@
-# IF YOU HAVE A TEA SHOP ,THE NO OF CUSTOMERS ON THIS DAY IS 100 AND YOU HAVE TO PRINT RECIEPT NO 
+# IF YOU HAVE A MOVIETHEATRE ,THE NO OF Audience BOOKING ON THIS DAY IS 100 AND YOU HAVE TO PRINT TICKET NO 
 
-customers=100
-for i in range(1,customers+1):
-    print("Reciept NO: ",i)
+Audience=100
+for i in range(1,Audience+1):
+    print("TICKET NO : ",i)
