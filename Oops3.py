@@ -4,3 +4,5 @@ class Player:
 
 p1=Player("ABD")
 print(p1.Name)
+p2=Player("Virat")
+print(p2.Name)
