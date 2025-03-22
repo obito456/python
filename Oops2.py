@@ -5,3 +5,4 @@ class Player:
         print("New player is added")
 
 p1=Player()
+print(p1)
